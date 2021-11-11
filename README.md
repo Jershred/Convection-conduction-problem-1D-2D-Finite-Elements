@@ -1,4 +1,4 @@
-# Elements-Finis-CONVECTION-CONDUCTION
+# Convection-conduction-problem (1D-Finite Elements)
 ## Context
 Project carried out for the course of numerical method for mechanics 2 in Python at Polytech Lyon (France).
 
@@ -8,7 +8,7 @@ Project carried out for the course of numerical method for mechanics 2 in Python
 
 **Grade** : 
 
-[Subject](Report/Enonce_TP_differences_finies_1D.pdf) (in French)
+[Subject](Report/EnoncéTP_2020.pdf) (in French)
 
 [Report part 1]() (in French)
 
