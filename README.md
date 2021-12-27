@@ -10,7 +10,7 @@ Project carried out for the course of numerical method for mechanics 2 in Python
 
 [Subject](Report/EnoncéTP_2020.pdf) (in French)
 
-[Report](Report/rapport_MNM_2.pdf) (in French)
+[Report](Report/Rapport_MNM_2.pdf) (in French)
 
 
 ## Project
