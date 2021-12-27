@@ -15,4 +15,4 @@ Project carried out for the course of numerical method for mechanics 2 in Python
 
 ## Project
 ### Introduction
-The aim of this project is to
+The aim of this project is to use the finite element theory with linear and quadratic elements in 1D and 2D to solve a thermal problem involving the convection / conduction of a fin using the Python language.
