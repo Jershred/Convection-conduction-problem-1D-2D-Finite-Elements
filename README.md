@@ -1,6 +1,6 @@
 # Convection-conduction-problem (1D-2D-Finite Elements)
 ## Context
-Project carried out for the course of numerical method for mechanics 2 in Python at Polytech Lyon (France).
+Project carried out for the course of numerical methods for mechanics 2 in Python at Polytech Lyon (France).
 
 | Made by | Referent teacher | 
 | ------------- |:-------------:|
