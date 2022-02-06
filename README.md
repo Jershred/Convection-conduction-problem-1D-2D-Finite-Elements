@@ -6,7 +6,7 @@ Project carried out for the course of numerical methods for mechanics 2 in Pytho
 | ------------- |:-------------:|
 | Jérémy Archier | Mr. Bastien Di Pierro |
 
-**Grade** : /20
+**Grade** : 17/20
 
 [Subject](Report/EnoncéTP_2020.pdf) (in French)
 
